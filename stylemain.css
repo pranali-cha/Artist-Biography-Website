@@ -1,0 +1,159 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+   
+}
+body
+{
+       background: url('backgraound.jfif');
+       background-size: cover;
+       height: 00vh;
+       color: white;
+       animation:.10s linear 1s infinite alternate slidein ;      
+        position: 100%;
+         grid-auto-rows: auto;
+         padding-left: 15%;
+         padding-right: 15%;
+
+ }
+.tagline
+{
+    font-family: monospace;
+    font-size: large;
+    align-items: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.midia
+{
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 50%;
+}
+.wrapper
+{
+    margin: 0;
+    top: 10%;
+    color:white;
+    text-align: center;
+    font-family: cursive;
+    box-shadow: 0 0 10px rgba(0,0,0,0.13);
+     box-shadow: 0 0 10px rgba(0,0,0,0.13);
+
+}
+.wrapper h1
+{
+    margin: -33px;
+    margin-bottom: 10px;
+}
+
+.About
+{
+    margin-top: 40px;
+    text-align: center;  
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    
+    
+}
+.About iframe
+{
+   
+    width: 600px;
+    height: 400px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.images
+{
+    top: 10%;
+    margin: 0;
+   text-align: center;
+    font-family: cursive;
+}
+.imag
+{
+    margin: 0%;
+    right: 20%;
+    top: 20%;
+    float: right;
+    text-align: right;
+    font-family: cursive;
+    padding-left: 5%;
+    padding-top: 5%;
+    
+}
+.icon
+{
+    float: right;
+   margin: 10px;
+   text-align: center;
+}
+.header li a
+   {
+        text-decoration: none;
+        list-style: none;
+        margin-top: 0;
+   }
+   .header li
+   {
+    list-style-type: none;
+    display: inline-block;
+    margin: 12px;
+    opacity: 0.5s;
+   
+   }
+   .header li a{
+    color: white;
+    border: 1px solid;
+    padding: 3px;
+    border-style: none;
+    font-family: 'ubuntu'sans-serif Roboto;
+   }
+   .header li a:hover
+   {
+       color:orange;
+   }
+   .infoo
+   {
+       width: 600px;
+       height: 400px;
+       padding-left: 2%;
+       padding-right: 2%;
+       
+   }
+   footer
+   {
+       background: black;
+       text-align: center;
+       height: 20PX;
+       font-size: 12px;
+       padding: 5PX;
+   }
+.mainlogo img{
+    width: 150px;
+    float: left;
+    padding-right: 5%;
+    padding-top: 5%;
+}
+body{
+    height: 100%;
+    border: 5px;
+}
+.center
+{
+    border: black;
+    color: aqua;
+    text-align: center;
+    font-size: medium;
+   
+}
+.z
+{
+    position: fixed;
+    left: 90%;
+}

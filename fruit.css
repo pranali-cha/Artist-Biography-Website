@@ -1,0 +1,22 @@
+*
+{
+    margin: 0;
+}
+.btn
+{
+    border: 2ch;
+    background-origin: padding-box;
+    align-items: center;
+    
+}
+.tag{
+    display: grid;
+    justify-items: center;
+}
+.imagee
+{
+    display: grid;
+    justify-items:center;    
+    align-items: center;
+    height: 10;
+}

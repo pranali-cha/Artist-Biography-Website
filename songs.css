@@ -1,0 +1,20 @@
+.action{
+        width: 300px;
+        font-size: 20px;
+        margin: 100px;
+        padding: 20px;
+        border: solid 2px green;
+        border-radius: 20px;
+
+}
+.action input, label, textarea,button
+{
+       width: 90%;
+       margin:10px;
+       padding: 10px;
+}
+.send{
+    background-color: #aaff00;
+    font-size: 30px;
+    color: #fff;
+}
